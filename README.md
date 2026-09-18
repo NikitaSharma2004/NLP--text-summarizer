@@ -35,7 +35,7 @@ An end-to-end NLP-driven web application built with **Python (Flask)**, **HTML5*
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_GITHUB_USERNAME/NLP--text-summarizer.git](https://github.com/YOUR_GITHUB_USERNAME/NLP--text-summarizer.git)
+git clone [https://github.com/NikitaSharma2004/NLP--text-summarizer.git](https://github.com/YOUR_GITHUB_USERNAME/NLP--text-summarizer.git)
 
 # 2. Navigate to project directory
 cd NLP--text-summarizer
